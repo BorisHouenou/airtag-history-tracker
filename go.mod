@@ -1,4 +1,4 @@
-module airtag_history_tracker
+module github.com/BorisHouenou/airtag-history-tracker
 
 go 1.19
 
